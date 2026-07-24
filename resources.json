@@ -1,0 +1,17 @@
+{
+  "Math": {
+    "videos": ["Khan Academy: Algebra", "3Blue1Brown: Calculus"],
+    "articles": ["Math is Fun Guide", "Brilliant.org"],
+    "exercises": ["Practice Problems", "Challenging Problems"]
+  },
+  "Physics": {
+    "videos": ["Feynman Lectures", "Crash Course Physics"],
+    "articles": ["HyperPhysics", "Physics Classroom"],
+    "exercises": ["Problem Sets", "Lab Simulations"]
+  },
+  "Biology": {
+    "videos": ["Khan Academy Biology", "Amoeba Sisters"],
+    "articles": ["Biology Online", "Nature Education"],
+    "exercises": ["Cell Structure Quiz", "Genetics Problems"]
+  }
+}
