@@ -1,0 +1,15 @@
+student_id,topic,study_hours,pre_test_score,post_test_score,difficulty_rating,learning_style
+STU001,Math,5,70,85,3,visual
+STU001,Physics,3,65,72,4,kinesthetic
+STU001,Biology,4,82,88,2,visual
+STU001,Chemistry,6,55,62,5,auditory
+STU001,History,2,88,90,1,reading
+STU002,Math,8,55,90,3,auditory
+STU002,Physics,4,60,75,4,visual
+STU002,Biology,6,78,91,2,kinesthetic
+STU002,Chemistry,5,45,58,5,reading
+STU002,History,3,85,89,1,visual
+STU003,Math,10,65,95,3,kinesthetic
+STU003,Physics,6,55,80,4,auditory
+STU003,Biology,3,80,85,2,visual
+STU003,History,4,90,94,1,reading
