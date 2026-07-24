@@ -47,6 +47,13 @@ This problem affects **millions of students worldwide**. According to educationa
 | **Self-learners** | Studying new subjects | Guidance, structure, tracking |
 | **Teachers** | Providing personalized guidance | Student insights, interventions |
 
+### 📸 Dashboard Preview
+
+![Smart Study Buddy Dashboard](images/Dashboard.png)
+
+*The Smart Study Buddy dashboard showing personalized study recommendations*
+
+
 ### Implementation Code
 
 ```python
