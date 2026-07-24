@@ -1,0 +1,87 @@
+{
+  "Math": {
+    "videos": [
+      "Khan Academy: Algebra",
+      "3Blue1Brown: Calculus",
+      "MIT OpenCourseWare: Calculus"
+    ],
+    "articles": [
+      "Math is Fun Guide",
+      "Brilliant.org",
+      "Paul's Online Notes"
+    ],
+    "exercises": [
+      "Practice Problems Set 1",
+      "Challenging Problems",
+      "Khan Academy Exercises"
+    ]
+  },
+  "Physics": {
+    "videos": [
+      "Feynman Lectures",
+      "Crash Course Physics",
+      "Physics Girl"
+    ],
+    "articles": [
+      "HyperPhysics",
+      "Physics Classroom",
+      "Nova Physics"
+    ],
+    "exercises": [
+      "Problem Sets",
+      "Lab Simulations",
+      "Physics Olympiad Problems"
+    ]
+  },
+  "Biology": {
+    "videos": [
+      "Khan Academy Biology",
+      "Amoeba Sisters",
+      "Bozeman Science"
+    ],
+    "articles": [
+      "Biology Online",
+      "Nature Education",
+      "HHMI BioInteractive"
+    ],
+    "exercises": [
+      "Cell Structure Quiz",
+      "Genetics Problems",
+      "Ecology Exercises"
+    ]
+  },
+  "Chemistry": {
+    "videos": [
+      "Khan Academy Chemistry",
+      "Tyler DeWitt",
+      "Crash Course Chemistry"
+    ],
+    "articles": [
+      "Chem LibreTexts",
+      "Chemistry World",
+      "PubChem"
+    ],
+    "exercises": [
+      "Stoichiometry Problems",
+      "Organic Chemistry Exercises",
+      "Periodic Table Quiz"
+    ]
+  },
+  "History": {
+    "videos": [
+      "Crash Course History",
+      "History Matters",
+      "Khan Academy History"
+    ],
+    "articles": [
+      "History.com",
+      "BBC History",
+      "Stanford History Education Group"
+    ],
+    "exercises": [
+      "Timeline Quiz",
+      "Document Analysis",
+      "Essay Prompts"
+    ]
+  }
+}
